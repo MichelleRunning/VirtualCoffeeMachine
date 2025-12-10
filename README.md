@@ -21,10 +21,17 @@ It simulates a coffee machine that can serve **espresso, latte, and cappuccino**
 ## Example
 
 What would you like? (espresso/latte/cappuccino): latte
+
 Please insert coins.
+
 How many quarters?: 10
+
 How many dimes?: 0
+
 How many nickles?: 0
+
 How many pennies?: 0
+
 Here is your change: $0.0
+
 Here is your drink. Enjoy!
